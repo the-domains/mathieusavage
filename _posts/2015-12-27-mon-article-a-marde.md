@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-27T05:54:58.657Z'
-dateModified: '2015-12-27T05:49:11.558Z'
-title: mon article a marde
+description: 'En bref!'
+datePublished: '2015-12-27T06:04:47.398Z'
+dateModified: '2015-12-27T06:04:42.696Z'
+title: Résumé de carrière de Mathieu Savage
 author: []
 authors: []
 publisher:

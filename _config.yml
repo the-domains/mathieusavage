@@ -1,0 +1,28 @@
+name: MathieuSavage
+favicon: null
+layout_spectrum: 0.33924344554543495
+typography_spectrum: 0.8313056253828108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.41807205602526665
+  lightness: 0.44769483897835016
+  saturation: 0.8083988353610039
+  rhythmicContrast: 0.9337129294872284
+purpose: []

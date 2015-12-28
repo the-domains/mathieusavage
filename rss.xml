@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mathieu Savage]]></title>
         <description><![CDATA[Mathieu Savage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mathieusavage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 21:33:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 21:34:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mathieusavage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mathieu a débuté sa carrière à titre de programmeur. Son insatiable soif d'apprendre, d'apporter des solutions et sa passion pour le monde des affaires l'ont amené à devenir un consultant primé auprès de nombreuses entreprises. Voulant toujours élargir ses horizons, </p>]]></description>
+            <link>https://thegrid.ai/mathieusavage/6df8aa21-a112-4bf7-84ab-8daa4f9f1203/index.html</link>
+            <guid isPermaLink="false">6df8aa21-a112-4bf7-84ab-8daa4f9f1203</guid>
+            <pubDate>Mon, 28 Dec 2015 21:33:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>En 2015, il s'associe à un de ses plus importants clients, Hit Solution, qu'il rejoint à temps plein à titre de directeur informatique. Sa mission est d'amener l'entreprise du stade de petite entreprise à celui d'une grande compagnie nationale. Les défis sont nombreux: Infrastructure technologique, implantation de dialer, automatisation des processus de marketing et de vente, préparation du déploiement d'une présence web à grande échelle, développement d'outils internet à l'usage des clients, création d'une équipe informatique de haut calibre, implantation des meilleures pratiques, etc.</p>]]></description>
-            <link>undefined6ce59982-9877-4f13-a30d-17170c98efe1/index.html</link>
+            <link>https://thegrid.ai/mathieusavage/6ce59982-9877-4f13-a30d-17170c98efe1/index.html</link>
             <guid isPermaLink="false">6ce59982-9877-4f13-a30d-17170c98efe1</guid>
             <pubDate>Mon, 28 Dec 2015 21:33:54 GMT</pubDate>
         </item>

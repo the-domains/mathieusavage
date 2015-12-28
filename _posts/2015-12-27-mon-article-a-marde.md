@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'En bref!'
-datePublished: '2015-12-28T21:28:52.470Z'
-dateModified: '2015-12-28T21:28:38.878Z'
+datePublished: '2015-12-28T21:31:39.617Z'
+dateModified: '2015-12-28T21:31:32.367Z'
 title: Résumé de carrière de Mathieu Savage
 author: []
 sourcePath: _posts/2015-12-27-mon-article-a-marde.md
